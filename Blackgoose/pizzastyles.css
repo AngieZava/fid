@@ -1,6 +1,6 @@
 @charset "UTF-8";   
 body {
-   background-color: #faf2e4;
+   background: linear-gradient(#faf2e4, #DDF1);
    margin: 0 15%;
 font-family: 'Roboto', sans-serif;
    }

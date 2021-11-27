@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-  background-color: #faf2e4;
+  background: linear-gradient(#faf2e4, #DDF1);
   margin: 0 15%;
   font-family: 'Roboto', sans-serif;
 }
@@ -31,6 +31,7 @@ h1 {
 h2 {
   color: #d1633c;
   font-size: 1em;
+  text-shadow: 1px 1px  orange;
 }
 footer {
   border-top: 1 px solid #57b1dc;
